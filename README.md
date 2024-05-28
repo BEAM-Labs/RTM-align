@@ -1,12 +1,7 @@
 # RTM-align
 Official code for RTM-align: an improved RNA alignment tool with enhanced short sequence performance via post-standardization and fragment alignment
 
-DISCLAIMER:
-Permission to use, copy, modify, and distribute this program for any
-purpose, with or without fee, is hereby granted, provided that the
-notices on the head, the reference information, and this copyright
-notice appear in all copies or substantial portions of the Software.
-It is provided "as is" without express or implied warranty.
+Benchmarking results demonstrated that RTMalign significantly improved classification accuracy (from 68% to 98%) on the challenging short-pairs dataset compared to RNA-align. Furthermore, it maintained robust performance for longer RNAs, achieving consistent results regardless of RNA length.
 
 This program is developed based on RNA-align: https://zhanggroup.org/RNA-align/download.html
 
